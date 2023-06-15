@@ -40,7 +40,7 @@ Then Go live with your IDE.
 BOOM!! There you have it.
 ## Tech Stack
 
-HTML, CSS, Font Awesome Icons
+HTML, CSS, Javscript, Font Awesome Icons
 
 
 
